@@ -1,0 +1,27 @@
+.logo {
+           margin-left: 599px;
+           margin-top: 100px;
+           height: 140px;
+
+}
+
+.aboutme{
+    margin-left: 500px;
+    margin-top: 13px;
+    color: #00ADB5;
+    cursor: pointer;
+}
+.aboutme:hover{
+    margin-left: 500px;
+    margin-top: 13px;
+    color: #000000;  
+    cursor: pointer;  
+
+}
+body {
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
